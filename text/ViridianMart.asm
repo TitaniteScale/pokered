@@ -5,7 +5,7 @@ _ViridianMartClerkSayHiToOakText::
 
 _ViridianMartClerkYouCameFromPalletTownText::
 	text "Hey! You came from"
-	line "PALLET TOWN?"
+	line "CHICKAMAUGA?"
 	done
 
 _ViridianMartClerkParcelQuestText::
