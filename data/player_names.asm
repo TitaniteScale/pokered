@@ -12,6 +12,7 @@ DefaultNamesRival:
 	next "BLUE"
 	next "GARY"
 	next "JOHN"
+	next "FUCKASS"
 	db   "@"
 ENDC
 
@@ -21,6 +22,7 @@ DefaultNamesPlayer:
 	next "BLUE"
 	next "GARY"
 	next "JOHN"
+	next "JIMMY"
 	db   "@"
 
 DefaultNamesRival:
@@ -28,5 +30,6 @@ DefaultNamesRival:
 	next "RED"
 	next "ASH"
 	next "JACK"
+	next "DIPSHIT"
 	db   "@"
 ENDC

@@ -11,6 +11,7 @@ DefaultNamesRivalList:
 	db "BLUE@"
 	db "GARY@"
 	db "JOHN@"
+	db "FUCKASS@"
 ENDC
 
 IF DEF(_BLUE)
@@ -19,10 +20,12 @@ DefaultNamesPlayerList:
 	db "BLUE@"
 	db "GARY@"
 	db "JOHN@"
+	db "JIMMY@"
 
 DefaultNamesRivalList:
 	db "NEW NAME@"
 	db "RED@"
 	db "ASH@"
 	db "JACK@"
+	db "DIPSHIT@"
 ENDC
