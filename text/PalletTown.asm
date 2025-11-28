@@ -43,8 +43,9 @@ _PalletTownOaksLabSignText::
 
 _PalletTownSignText::
 	text "CHICKAMAUGA"
-	line "Shades of your"
-	cont "journey await!"
+	line "In a land of"
+	cont "history, write"
+	cont "a new chapter!"
 	done
 
 _PalletTownPlayersHouseSignText::

@@ -1,5 +1,5 @@
-PalletTownName:      db "PALLET TOWN@"
-ViridianCityName:    db "VIRIDIAN CITY@"
+PalletTownName:      db "CHICKAMAUGA@"
+ViridianCityName:    db "CHATTANOOGA@"
 PewterCityName:      db "PEWTER CITY@"
 CeruleanCityName:    db "CERULEAN CITY@"
 LavenderTownName:    db "LAVENDER TOWN@"

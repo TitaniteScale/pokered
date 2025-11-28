@@ -5,12 +5,14 @@ _Route22RivalBeforeBattleText1::
 	para "You're going to"
 	line "#MON LEAGUE?"
 
-	para "Forget it! You"
-	line "probably don't"
-	cont "have any BADGEs!"
+	para "They won't let"
+	line "us! They said"
+	cont "we gotta get"
+	cont "some BADGEs!"
 
-	para "The guard won't"
-	line "let you through!"
+	para "The guard ain't"
+	line "lettin' me even"
+	cont "walk inside!"
 
 	para "By the way, did"
 	line "your #MON"
@@ -19,22 +21,23 @@ _Route22RivalBeforeBattleText1::
 
 _Route22RivalAfterBattleText1::
 	text "I heard #MON"
-	line "LEAGUE has many"
-	cont "tough trainers!"
+	line "LEAGUE has tons"
+	cont "of tough"
+	cont "trainers!"
 
-	para "I have to figure"
+	para "I gotta figure"
 	line "out how to get"
-	cont "past them!"
+	cont "whoop em!"
 
-	para "You should quit"
-	line "dawdling and get"
-	cont "a move on!"
+	para "Come on <PLAYER>!"
+	line "let's get out"
+	cont "and after it!"
 	done
 
 _Route22Rival1DefeatedText::
 	text "Awww!"
-	line "You just lucked"
-	cont "out!"
+	line "I'll getcha"
+	cont "next time!"
 	prompt
 
 _Route22Rival1VictoryText::

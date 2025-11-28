@@ -1,6 +1,6 @@
 _Route2SignText::
 	text "ROUTE 2"
-	line "VIRIDIAN CITY -"
+	line "CHATTANOOGA -"
 	cont "PEWTER CITY"
 	done
 

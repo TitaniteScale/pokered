@@ -181,6 +181,7 @@ DisplayIntroNameTextBox:
 	inc a
 	ld [wTopMenuItemY], a
 	inc a
+	inc a
 	ld [wMaxMenuItem], a
 	jp HandleMenuInput
 

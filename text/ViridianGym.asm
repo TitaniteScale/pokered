@@ -197,8 +197,9 @@ _ViridianGymRocker2AfterBattleText::
 	done
 
 _ViridianGymCooltrainerM3BattleText::
-	text "VIRIDIAN GYM was"
-	line "closed for a long"
+	text "The CHATTANOOGA"
+	line "GYM was closed"
+	cont "for a long"
 	cont "time, but now our"
 	cont "LEADER is back!"
 	done

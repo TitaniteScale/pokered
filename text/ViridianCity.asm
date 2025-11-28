@@ -139,9 +139,9 @@ _ViridianCityOldManYouNeedToWeakenTheTargetText::
 	done
 
 _ViridianCitySignText::
-	text "VIRIDIAN CITY "
-	line "The Eternally"
-	cont "Green Paradise"
+	text "CHATTANOOGA "
+	line "The Paradise"
+	cont "in the Valley"
 	done
 
 _ViridianCityTrainerTips1Text::
@@ -171,7 +171,7 @@ _ViridianCityTrainerTips2Text::
 	done
 
 _ViridianCityGymSignText::
-	text "VIRIDIAN CITY"
+	text "CHATTANOOGA"
 	line "#MON GYM"
 	done
 

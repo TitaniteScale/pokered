@@ -271,13 +271,13 @@ _OaksLabRivalAmIGreatOrWhatText::
 
 _OaksLabRivalSmellYouLaterText::
 	text "<RIVAL>: Okay!"
-	line "I'll make my"
-	cont "#MON fight to"
+	line "I'll train"
+	cont "my #MON to"
 	cont "toughen it up!"
 
 	para "<PLAYER>! Grampa!"
 	line "See ya later"
-	cont "alligator!"
+	cont "alligators!"
 	done
 
 _OaksLabRivalGrampsText::
@@ -286,7 +286,7 @@ _OaksLabRivalGrampsText::
 
 _OaksLabRivalWhatDidYouCallMeForText::
 	text "<RIVAL>: What did"
-	line "you call me for?"
+	line "you need grampa?"
 	done
 
 _OaksLabOakIHaveARequestText::
@@ -346,19 +346,19 @@ _OaksLabRivalLeaveItAllToMeText::
 	line "Grampa! I reckon"
 	cont "I can do this!"
 
-	para "<PLAYER>, Don't"
-	line "take it the wrong"
-	cont "way but, I"
-	cont "don't need ya!"
+	para "<PLAYER>, I have"
+	line "a pretty fun idea"
+	cont "Let's see who can"
+	cont "do it first!"
 
 	para "I know! I'll"
 	line "borrow a TOWN MAP"
 	cont "from my sis!"
 
-	para "I'll tell her"
-	line "ol' <PLAYER>"
-	cont "can figure it"
-	cont "it out alone."
+	para "Swing on by"
+	line "and I'm sure that"
+	cont "she'll give you"
+	cont "one too!"
 	done
 
 _OaksLabScientistText::

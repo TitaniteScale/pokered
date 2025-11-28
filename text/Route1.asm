@@ -5,7 +5,7 @@ _Route1Youngster1MartSampleText::
 	para "It's a convenient"
 	line "shop, so please"
 	cont "visit us in"
-	cont "VIRIDIAN CITY."
+	cont "CHATTANOOGA."
 
 	para "I know, I'll give"
 	line "you a sample!"
@@ -46,5 +46,5 @@ _Route1Youngster2Text::
 _Route1SignText::
 	text "ROUTE 1"
 	line "CHICKAMAUGA -"
-	cont "VIRIDIAN CITY"
+	cont "CHATTANOOGA"
 	done
