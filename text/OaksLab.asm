@@ -1,22 +1,22 @@
 _OaksLabRivalGrampsIsntAroundText::
-	text "<RIVAL>: Yo"
-	line "<PLAYER>! Gramps"
-	cont "isn't around!"
+	text "<RIVAL>: Hey"
+	line "<PLAYER>! Grampa"
+	cont "ain't here!"
 	done
 
 _OaksLabRivalGoAheadAndChooseText::
-	text "<RIVAL>: Heh, I"
-	line "don't need to be"
-	cont "greedy like you!"
+	text "<RIVAL>: Well, my"
+	line "paw always said"
+	cont "greed is a sin."
 
 	para "Go ahead and"
-	line "choose, <PLAYER>!"
+	line "pick, <PLAYER>!"
 	done
 
 _OaksLabRivalMyPokemonLooksStrongerText::
 	text "<RIVAL>: My"
 	line "#MON looks a"
-	cont "lot stronger."
+	cont "bunch tougher."
 	done
 
 _OaksLabThoseArePokeBallsText::
@@ -185,9 +185,9 @@ _OaksLabGirlText::
 	done
 
 _OaksLabRivalFedUpWithWaitingText::
-	text "<RIVAL>: Gramps!"
-	line "I'm fed up with"
-	cont "waiting!"
+	text "<RIVAL>: Grampa"
+	line "I'm a lil done"
+	cont "with waiting."
 	done
 
 _OaksLabOakChooseMonText::
@@ -220,7 +220,7 @@ _OaksLabOakChooseMonText::
 
 _OaksLabRivalWhatAboutMeText::
 	text "<RIVAL>: Hey!"
-	line "Gramps! What"
+	line "Grampa, What"
 	cont "about me?"
 	done
 
@@ -237,7 +237,7 @@ _OaksLabOakDontGoAwayYetText::
 
 _OaksLabRivalIllTakeThisOneText::
 	text "<RIVAL>: I'll take"
-	line "this one, then!"
+	line "this'n, then!"
 	done
 
 _OaksLabRivalReceivedMonText::
@@ -253,20 +253,20 @@ _OaksLabRivalIllTakeYouOnText::
 	cont "Let's check out"
 	cont "our #MON!"
 
-	para "Come on, I'll take"
-	line "you on!"
+	para "Come on, let's me"
+	line "and you scrap!"
 	done
 
 _OaksLabRivalIPickedTheWrongPokemonText::
-	text "WHAT?"
-	line "Unbelievable!"
+	text "Aw man!"
+	line "Dammit!"
 	cont "I picked the"
 	cont "wrong #MON!"
 	prompt
 
 _OaksLabRivalAmIGreatOrWhatText::
-	text "<RIVAL>: Yeah! Am"
-	line "I great or what?"
+	text "<RIVAL>: Yeah!"
+	line "Ain't I awesome?"
 	prompt
 
 _OaksLabRivalSmellYouLaterText::
@@ -275,8 +275,9 @@ _OaksLabRivalSmellYouLaterText::
 	cont "#MON fight to"
 	cont "toughen it up!"
 
-	para "<PLAYER>! Gramps!"
-	line "Smell you later!"
+	para "<PLAYER>! Grampa!"
+	line "See ya later"
+	cont "alligator!"
 	done
 
 _OaksLabRivalGrampsText::
@@ -342,20 +343,22 @@ _OaksLabOakThatWasMyDreamText::
 
 _OaksLabRivalLeaveItAllToMeText::
 	text "<RIVAL>: Alright"
-	line "Gramps! Leave it"
-	cont "all to me!"
+	line "Grampa! I reckon"
+	cont "I can do this!"
 
-	para "<PLAYER>, I hate to"
-	line "say it, but I"
-	cont "don't need you!"
+	para "<PLAYER>, Don't"
+	line "take it the wrong"
+	cont "way but, I"
+	cont "don't need ya!"
 
 	para "I know! I'll"
 	line "borrow a TOWN MAP"
 	cont "from my sis!"
 
-	para "I'll tell her not"
-	line "to lend you one,"
-	cont "<PLAYER>! Hahaha!"
+	para "I'll tell her"
+	line "ol' <PLAYER>"
+	cont "can figure it"
+	cont "it out alone."
 	done
 
 _OaksLabScientistText::

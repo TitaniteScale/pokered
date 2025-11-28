@@ -3,7 +3,8 @@ DefaultNamesPlayerList:
 	db "NEW NAME@"
 	db "RED@"
 	db "ASH@"
-	db "JACK@"
+	db "ANDREA@"
+	db "JAKE@"
 
 DefaultNamesRivalList:
 	db "NEW NAME@"
