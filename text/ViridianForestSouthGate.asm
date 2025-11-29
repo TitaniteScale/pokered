@@ -1,6 +1,6 @@
 _ViridianForestSouthGateGirlText::
 	text "Are you going to"
-	line "VIRIDIAN FOREST?"
+	line "NANTAHALA NF?"
 	cont "Be careful, it's"
 	cont "a natural maze!"
 	done

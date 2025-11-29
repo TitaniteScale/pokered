@@ -18,7 +18,7 @@ _ViridianCityGambler1GymAlwaysClosedText::
 	done
 
 _ViridianCityGambler1GymLeaderReturnedText::
-	text "VIRIDIAN GYM's"
+	text "CHATTANOOGA GYM's"
 	line "LEADER returned!"
 	done
 
@@ -54,7 +54,7 @@ _ViridianCityGirlWhenIGoShopText::
 	line "ASHEVILLE, I"
 	cont "have to take the"
 	cont "winding trail in"
-	cont "VIRIDIAN FOREST."
+	cont "NANTAHALA NF."
 	done
 
 _ViridianCityOldManSleepyPrivatePropertyText::

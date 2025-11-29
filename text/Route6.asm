@@ -38,7 +38,7 @@ _Route6Youngster1EndBattleText::
 _Route6Youngster1AfterBattleText::
 	text "I like bugs, so"
 	line "I'm going back to"
-	cont "VIRIDIAN FOREST."
+	cont "NANTAHALA NF."
 	done
 
 _Route6CooltrainerM2BattleText::

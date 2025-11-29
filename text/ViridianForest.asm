@@ -118,6 +118,6 @@ _ViridianForestTrainerTips4Text::
 
 _ViridianForestLeavingSignText::
 	text "LEAVING"
-	line "VIRIDIAN FOREST"
+	line "NANTAHALA NF"
 	cont "ASHEVILLE AHEAD"
 	done

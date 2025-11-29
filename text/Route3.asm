@@ -10,7 +10,7 @@ _Route3Text1::
 
 _Route3Youngster1BattleText::
 	text "Hey! I met you in"
-	line "VIRIDIAN FOREST!"
+	line "NANTAHALA NF!"
 	done
 
 _Route3Youngster1EndBattleText::
