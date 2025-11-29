@@ -51,7 +51,7 @@ _ViridianCityGirlHasntHadHisCoffeeYetText::
 
 _ViridianCityGirlWhenIGoShopText::
 	text "When I go shop in"
-	line "PEWTER CITY, I"
+	line "ASHEVILLE, I"
 	cont "have to take the"
 	cont "winding trail in"
 	cont "VIRIDIAN FOREST."

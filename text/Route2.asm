@@ -1,7 +1,7 @@
 _Route2SignText::
 	text "ROUTE 2"
 	line "CHATTANOOGA -"
-	cont "PEWTER CITY"
+	cont "ASHEVILLE"
 	done
 
 _Route2DiglettsCaveSignText::

@@ -1,7 +1,7 @@
 _PewterGymBrockPreBattleText::
 	text "I'm BROCK!"
-	line "I'm PEWTER's GYM"
-	cont "LEADER!"
+	line "I'm ASHEVILLE's"
+	cont "GYM LEADER!"
 
 	para "I believe in rock"
 	line "hard defense and"

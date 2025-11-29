@@ -1,6 +1,6 @@
 PalletTownName:      db "CHICKAMAUGA@"
 ViridianCityName:    db "CHATTANOOGA@"
-PewterCityName:      db "PEWTER CITY@"
+PewterCityName:      db "ASHEVILLE@"
 CeruleanCityName:    db "CERULEAN CITY@"
 LavenderTownName:    db "LAVENDER TOWN@"
 VermilionCityName:   db "VERMILION CITY@"
