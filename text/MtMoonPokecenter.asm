@@ -8,7 +8,7 @@ _MtMoonPokecenterYoungsterText::
 
 _MtMoonPokecenterGentlemanText::
 	text "TEAM ROCKET"
-	line "attacks CERULEAN"
+	line "attacks ANNAPOLIS"
 	cont "citizens..."
 
 	para "TEAM ROCKET is"

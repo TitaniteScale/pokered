@@ -28,7 +28,7 @@ _PewterCitySuperNerd1DidYouCheckOutMuseumText::
 _PewterCitySuperNerd1WerentThoseFossilsAmazingText::
 	text "Weren't those"
 	line "fossils from MT."
-	cont "MOON amazing?"
+	cont "MITCHELL amazing?"
 	done
 
 _PewterCitySuperNerd1YouHaveToGoText::

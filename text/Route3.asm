@@ -4,7 +4,7 @@ _Route3Text1::
 	cont "Groan..."
 
 	para "That tunnel from"
-	line "CERULEAN takes a"
+	line "ANNAPOLIS takes a"
 	cont "lot out of you!"
 	done
 
@@ -136,10 +136,11 @@ _Route3CooltrainerF3EndBattleText::
 
 _Route3CooltrainerF3AfterBattleText::
 	text "ROUTE 4 is at the"
-	line "foot of MT.MOON."
+	line "foot of"
+	cont "MT.MITCHELL."
 	done
 
 _Route3SignText::
 	text "ROUTE 3"
-	line "MT.MOON AHEAD"
+	line "MT.MITCHELL AHEAD"
 	done

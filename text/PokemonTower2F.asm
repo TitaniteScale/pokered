@@ -1,49 +1,53 @@
 _PokemonTower2FRivalWhatBringsYouHereText::
 	text "<RIVAL>: Hey,"
-	line "<PLAYER>! What"
+	line "<PLAYER>, What"
 	cont "brings you here?"
 	cont "Your #MON"
-	cont "don't look dead!"
+	cont "are doin' fine."
 
-	para "I can at least"
-	line "make them faint!"
-	cont "Let's go, pal!"
+	para "Well, I reckon"
+	line "I can show ya"
+	cont "how hard I've"
+	cont "been workin'!"
+	cont "Let's go, bud!"
 	done
 
 _PokemonTower2FRivalDefeatedText::
 	text "What?"
-	line "You stinker!"
+	line "Come on!"
 
-	para "I took it easy on"
-	line "you too!"
+	para "Well, I just got"
+	line "took off guard."
 	prompt
 
 _PokemonTower2FRivalVictoryText::
 	text "<RIVAL>: Well,"
-	line "look at all your"
-	cont "wimpy #MON!"
+	line "I reckon y'all"
+	cont "ain't puttin in"
+	cont "the hours!"
 
-	para "Toughen them up a"
-	line "bit more!"
+	para "Toughen 'em up a"
+	line "lil more!"
 	prompt
 
 _PokemonTower2FRivalHowsYourDexText::
 	text "How's your #DEX"
-	line "coming, pal?"
+	line "coming, bud?"
 	cont "I just caught a"
 	cont "CUBONE!"
 
 	para "I can't find the"
-	line "grown-up MAROWAK"
-	cont "yet!"
+	line "MAROWAK momma"
+	cont "though."
 
-	para "I doubt there are"
-	line "any left! Well, I"
-	cont "better get going!"
-	cont "I've got a lot to"
-	cont "accomplish, pal!"
+	para "I hope she'll be"
+	line "alright. Well, I"
+	cont "better get going."
+	cont "No sense burnin'"
+	cont "daylight, bud!"
 
-	para "Smell ya later!"
+	para "See ya later,"
+	line "alligator!"
 	done
 
 _PokemonTower2FChannelerText::

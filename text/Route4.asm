@@ -24,12 +24,12 @@ _Route4CooltrainerF2AfterBattleText::
 	done
 
 _Route4MtMoonSignText::
-	text "MT.MOON"
+	text "MT.MITCHELL"
 	line "Tunnel Entrance"
 	done
 
 _Route4SignText::
 	text "ROUTE 4"
-	line "MT.MOON -"
-	cont "CERULEAN CITY"
+	line "MT.MITCHELL -"
+	cont "ANNAPOLIS"
 	done

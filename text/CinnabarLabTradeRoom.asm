@@ -1,7 +1,7 @@
 _CinnabarLabTradeRoomSuperNerdText::
 	text "I found this very"
 	line "strange fossil in"
-	cont "MT.MOON!"
+	cont "MT.MITCHELL!"
 
 	para "I think it's a"
 	line "rare, prehistoric"

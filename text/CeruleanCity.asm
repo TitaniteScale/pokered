@@ -1,12 +1,12 @@
 _CeruleanCityRivalPreBattleText::
-	text "<RIVAL>: Yo!"
+	text "<RIVAL>: Hey!"
 	line "<PLAYER>!"
 
-	para "You're still"
-	line "struggling along"
-	cont "back here?"
+	para "Glad you could"
+	line "make it out here!"
+	cont "How are ya?"
 
-	para "I'm doing great!"
+	para "I'm doin' great!"
 	line "I caught a bunch"
 	cont "of strong and"
 	cont "smart #MON!"
@@ -17,45 +17,46 @@ _CeruleanCityRivalPreBattleText::
 	done
 
 _CeruleanCityRivalDefeatedText::
-	text "Hey!"
-	line "Take it easy!"
-	cont "You won already!"
+	text "Hey! You're"
+	line "awesome! I reckon"
+	cont "you win this'n!"
 	prompt
 
 _CeruleanCityRivalVictoryText::
-	text "Heh!"
-	line "You're no match"
-	cont "for my genius!"
+	text "Gotcha!"
+	line "Better luck next"
+	cont "time ol buddy!"
 	prompt
 
 _CeruleanCityRivalIWentToBillsText::
 	text "<RIVAL>: Hey,"
 	line "guess what?"
 
-	para "I went to BILL's"
-	line "and got him to"
-	cont "show me his rare"
-	cont "#MON!"
+	para "I dropped by"
+	line "BILL's and he"
+	cont "showed me his"
+	cont "rare #MON!"
 
-	para "That added a lot"
+	para "That added lots"
 	line "of pages to my"
 	cont "#DEX!"
 
 	para "After all, BILL's"
-	line "world famous as a"
+	line "a world famous"
 	cont "#MANIAC!"
 
 	para "He invented the"
 	line "#MON Storage"
 	cont "System on PC!"
 
-	para "Since you're using"
-	line "his system, go"
-	cont "thank him!"
+	para "Since you're usin'"
+	line "his system, you"
+	cont "oughta thank him!"
 
 	para "Well, I better"
-	line "get rolling!"
-	cont "Smell ya later!"
+	line "get rollin'!"
+	cont "See ya later,"
+	cont "alligator!"
 	done
 
 _CeruleanCityRocketText::
@@ -192,7 +193,7 @@ _CeruleanCityCooltrainerF2Text::
 	done
 
 _CeruleanCitySuperNerd3Text::
-	text "This is CERULEAN"
+	text "This is ANNAPOLIS"
 	line "CAVE! Horribly"
 	cont "strong #MON"
 	cont "live in there!"
@@ -204,7 +205,7 @@ _CeruleanCitySuperNerd3Text::
 	done
 
 _CeruleanCitySignText::
-	text "CERULEAN CITY"
+	text "ANNAPOLIS"
 	line "A Mysterious,"
 	cont "Blue Aura"
 	cont "Surrounds It"
@@ -226,7 +227,7 @@ _CeruleanCityBikeShopSign::
 	done
 
 _CeruleanCityGymSign::
-	text "CERULEAN CITY"
+	text "ANNAPOLIS"
 	line "#MON GYM"
 	cont "LEADER: MISTY"
 

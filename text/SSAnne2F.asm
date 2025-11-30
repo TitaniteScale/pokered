@@ -9,30 +9,31 @@ _SSAnne2FWaiterText::
 	done
 
 _SSAnne2FRivalText::
-	text "<RIVAL>: Bonjour!"
+	text "<RIVAL>: Howdy!"
 	line "<PLAYER>!"
 
-	para "Imagine seeing"
+	para "Imagine seein'"
 	line "you here!"
 
-	para "<PLAYER>, were you"
-	line "really invited?"
+	para "<PLAYER>, how'd it"
+	line "go in Gettysburg"
+	line "after I left?"
 
-	para "So how's your"
+	para "And how's your"
 	line "#DEX coming?"
 
 	para "I already caught"
-	line "40 kinds, pal!"
+	line "40 kinds, bud!"
 
 	para "Different kinds"
 	line "are everywhere!"
 
 	para "Crawl around in"
-	line "grassy areas!"
+	line "the grass even!"
 	done
 
 _SSAnne2FRivalDefeatedText::
-	text "Humph!"
+	text "Damn!"
 
 	para "At least you're"
 	line "raising your"
@@ -40,11 +41,11 @@ _SSAnne2FRivalDefeatedText::
 	prompt
 
 _SSAnne2FRivalVictoryText::
-	text "<PLAYER>! What are"
-	line "you, seasick?"
+	text "<PLAYER>! Come on!"
+	line "You seasick?"
 
-	para "You should shape"
-	line "up, pal!"
+	para "You gotta pick it"
+	line "up, bud!"
 	prompt
 
 _SSAnne2FRivalCutMasterText::
@@ -52,12 +53,13 @@ _SSAnne2FRivalCutMasterText::
 	line "there was a CUT"
 	cont "master on board."
 
-	para "But, he was just a"
-	line "seasick, old man!"
+	para "But, he's old now"
+	line "and he's retired."
 
 	para "But, CUT itself is"
 	line "really useful!"
 
 	para "You should go see"
-	line "him! Smell ya!"
+	line "him! See ya later,"
+	cont "alligator!"
 	done

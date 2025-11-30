@@ -26,7 +26,7 @@ _Route22RivalAfterBattleText1::
 	cont "trainers!"
 
 	para "I gotta figure"
-	line "out how to get"
+	line "out how to"
 	cont "whoop em!"
 
 	para "Come on <PLAYER>!"

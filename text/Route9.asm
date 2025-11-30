@@ -152,6 +152,6 @@ _Route9Youngster2AfterBattleText::
 
 _Route9SignText::
 	text "ROUTE 9"
-	line "CERULEAN CITY-"
+	line "ANNAPOLIS-"
 	cont "ROCK TUNNEL"
 	done

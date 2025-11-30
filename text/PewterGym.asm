@@ -1,18 +1,19 @@
 _PewterGymBrockPreBattleText::
-	text "I'm BROCK!"
-	line "I'm ASHEVILLE's"
-	cont "GYM LEADER!"
+	text "Like, what's up"
+	line "bro? I'm BROCK."
+	cont "I'm the ASHEVILLE"
+	cont "GYM LEADER."
 
-	para "I believe in rock"
-	line "hard defense and"
-	cont "determination!"
+	para "My rock types"
+	line "vibes are muy"
+	cont "immaculate!"
 
-	para "That's why my"
-	line "#MON are all"
-	cont "the rock-type!"
+	para "They help keep me"
+	line "grounded and I"
+	cont "help them chill!"
 
-	para "Do you still want"
-	line "to challenge me?"
-	cont "Fine then! Show"
-	cont "me your best!"
+	para "So like, do you"
+	line "wanna check em?"
+	cont "Hellllll Yeah!"
+	cont "Let's vibe out!"
 	done

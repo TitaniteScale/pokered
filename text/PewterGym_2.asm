@@ -1,19 +1,19 @@
 _PewterGymBrockPostBattleAdviceText::
-	text "There are all"
-	line "kinds of trainers"
+	text "There are like"
+	line "so many trainers"
 	cont "in the world!"
 
-	para "You appear to be"
-	line "very gifted as a"
+	para "I can tell you're"
+	line "a mega strong"
 	cont "#MON trainer!"
 
-	para "Go to the GYM in"
-	line "CERULEAN and test"
-	cont "your abilities!"
+	para "Hit the GYM in"
+	line "ANNAPOLIS and say"
+	cont "hey for me!"
 	done
 
 _PewterGymBrockWaitTakeThisText::
-	text "Wait! Take this"
+	text "Bro! Take this"
 	line "with you!"
 	done
 
@@ -26,16 +26,16 @@ _TM34ExplanationText::
 	text_start
 
 	para "A TM contains a"
-	line "technique that"
+	line "like, move, that"
 	cont "can be taught to"
 	cont "#MON!"
 
-	para "A TM is good only"
-	line "once! So when you"
-	cont "use one to teach"
-	cont "a new technique,"
-	cont "pick the #MON"
-	cont "carefully!"
+	para "Now you can only"
+	line "use these once so"
+	cont "you absolutely"
+	cont "gotta be sure"
+	cont "you pick the"
+	cont "right #MON!"
 
 	para "TM34 contains"
 	line "BIDE!"
@@ -47,17 +47,17 @@ _TM34ExplanationText::
 	done
 
 _PewterGymTM34NoRoomText::
-	text "You don't have"
-	line "room for this!"
+	text "You don't gots"
+	line "the room broski!"
 	done
 
 _PewterGymBrockReceivedBoulderBadgeText::
-	text "I took"
-	line "you for granted."
+	text "Man, you "
+	line "got real steez."
 
-	para "As proof of your"
-	line "victory, here's"
-	cont "the BOULDERBADGE!"
+	para "Here, take this"
+	line "and show it off!"
+	cont "The BOULDERBADGE!"
 
 	para "<PLAYER> received"
 	line "the BOULDERBADGE!@"
@@ -66,17 +66,17 @@ _PewterGymBrockReceivedBoulderBadgeText::
 _PewterGymBrockBoulderBadgeInfoText::
 	text_start
 
-	para "That's an official"
+	para "That's a genuine"
 	line "#MON LEAGUE"
 	cont "BADGE!"
 
-	para "Its bearer's"
+	para "With that baby?"
 	line "#MON become"
 	cont "more powerful!"
 
 	para "The technique"
 	line "FLASH can now be"
-	cont "used any time!"
+	cont "used whenever!"
 	prompt
 
 _PewterGymCooltrainerMBattleText::

@@ -92,6 +92,6 @@ _Route6Youngster2AfterBattleText::
 
 _Route6UndergroundPathSignText::
 	text "UNDERGROUND PATH"
-	line "CERULEAN CITY -"
+	line "ANNAPOLIS -"
 	cont "VERMILION CITY"
 	done

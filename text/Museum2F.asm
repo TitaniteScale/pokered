@@ -40,6 +40,7 @@ _Museum2FSpaceShuttleSignText::
 
 _Museum2FMoonStoneSignText::
 	text "Meteorite that"
-	line "fell on MT.MOON."
+	line "dropped on"
+	cont "MT.MITCHELL."
 	cont "(MOON STONE?)"
 	done

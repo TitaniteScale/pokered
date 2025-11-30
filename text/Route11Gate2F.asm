@@ -33,7 +33,7 @@ _Route11Gate2FRightBinocularsText::
 	line "binoculars."
 
 	para "The only way to"
-	line "get from CERULEAN"
+	line "get from ANNAPOLIS"
 	cont "CITY to LAVENDER"
 	cont "is by way of the"
 	cont "ROCK TUNNEL."

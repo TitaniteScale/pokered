@@ -29,7 +29,7 @@ _UndergroundPathRoute7CopyUnusedGoesUnderSaffronText::
 	cont "to LAVENDER."
 
 	para "If you're heading"
-	line "to CERULEAN, go"
+	line "to ANNAPOLIS, go"
 	cont "to the building"
 	cont "across the road."
 	done

@@ -29,7 +29,7 @@ _RocketHideoutB4FGiovanniHopeWeMeetAgainText::
 _RocketHideoutB4FRocket1BattleText::
 	text "I know you! You"
 	line "ruined our plans"
-	cont "at MT.MOON!"
+	cont "at MT.MITCHELL!"
 	done
 
 _RocketHideoutB4FRocket1EndBattleText::

@@ -101,7 +101,7 @@ _Route25CooltrainerF2AfterBattleText::
 
 _Route25Hiker1BattleText::
 	text "I just got down"
-	line "from MT.MOON,"
+	line "from MT.MITCHELL,"
 	cont "but I'm ready!"
 	done
 
@@ -147,7 +147,7 @@ _Route25Hiker3EndBattleText::
 _Route25Hiker3AfterBattleText::
 	text "The trail below"
 	line "is a shortcut to"
-	cont "CERULEAN CITY."
+	cont "ANNAPOLIS."
 	done
 
 _Route25BillSignText::
