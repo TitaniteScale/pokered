@@ -1,11 +1,12 @@
 _CeruleanGymMistyPreBattleText::
-	text "Hi, you're a new"
-	line "face!"
+	text "Who the hell let"
+	line "you in here?"
 
-	para "Trainers who want"
-	line "to turn pro have"
-	cont "to have a policy"
-	cont "about #MON!"
+	para "Oh my god bruh,"
+	line "what the hell"
+	cont "do I even pay"
+	cont "these trainers"
+	cont "for?"
 
 	para "What is your"
 	line "approach when you"
@@ -21,8 +22,9 @@ _CeruleanGymMistyTM11ExplanationText::
 	text "TM11 teaches"
 	line "BUBBLEBEAM!"
 
-	para "Use it on an"
-	line "aquatic #MON!"
+	para "Use it on a"
+	line "kickass water"
+	cont "beastie!"
 	done
 
 _CeruleanGymMistyCascadeBadgeInfoText::
@@ -31,11 +33,11 @@ _CeruleanGymMistyCascadeBadgeInfoText::
 	cont "up to L30 obey!"
 
 	para "That includes"
-	line "even outsiders!"
+	line "traded #MON!"
 
-	para "There's more, you"
-	line "can now use CUT"
-	cont "any time!"
+	para "But wait! There's"
+	line "more! you can now"
+	cont "use CUT any time!"
 
 	para "You can CUT down"
 	line "small bushes to"
@@ -56,8 +58,8 @@ _CeruleanGymMistyTM11NoRoomText::
 	done
 
 _CeruleanGymMistyReceivedCascadeBadgeText::
-	text "Wow!"
-	line "You're too much!"
+	text "Damn! you're"
+	line "fucking awesome!"
 
 	para "All right!"
 
