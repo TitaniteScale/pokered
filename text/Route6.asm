@@ -93,5 +93,5 @@ _Route6Youngster2AfterBattleText::
 _Route6UndergroundPathSignText::
 	text "UNDERGROUND PATH"
 	line "ANNAPOLIS -"
-	cont "VERMILION CITY"
+	cont "BALTIMORE"
 	done

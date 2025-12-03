@@ -17,6 +17,6 @@ _VermilionPidgeyHouseLetterText::
 	line "has problems with"
 	cont "TEAM ROCKET."
 
-	para "VERMILION appears"
+	para "BALTIMORE appears"
 	line "to be safe."
 	done

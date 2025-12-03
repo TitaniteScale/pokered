@@ -34,7 +34,7 @@ _Route11Gate2FRightBinocularsText::
 
 	para "The only way to"
 	line "get from ANNAPOLIS"
-	cont "CITY to LAVENDER"
+	cont "to GETTYSBURG"
 	cont "is by way of the"
-	cont "ROCK TUNNEL."
+	cont "CRYSTAL GROTTOES."
 	done

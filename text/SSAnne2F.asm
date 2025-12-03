@@ -17,7 +17,7 @@ _SSAnne2FRivalText::
 
 	para "<PLAYER>, how'd it"
 	line "go in Gettysburg"
-	line "after I left?"
+	cont "after I left?"
 
 	para "And how's your"
 	line "#DEX coming?"

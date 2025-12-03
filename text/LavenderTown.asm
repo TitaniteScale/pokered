@@ -38,9 +38,9 @@ _LavenderTownSuperNerdText::
 	done
 
 _LavenderTownSignText::
-	text "LAVENDER TOWN"
-	line "The Noble Purple"
-	cont "Town"
+	text "GETTYSBURG"
+	line "Population:"
+	cont "Far Too Few."
 	done
 
 _LavenderTownSilphScopeSignText::
@@ -53,8 +53,9 @@ _LavenderTownSilphScopeSignText::
 	done
 
 _LavenderTownPokemonHouseSignText::
-	text "LAVENDER VOLUNTEER"
-	line "#MON HOUSE"
+	text "GETTYSBURG"
+	line "VOLUNTEER"
+	cont "#MON HOUSE"
 	done
 
 _LavenderTownPokemonTowerSignText::

@@ -55,7 +55,7 @@ _Route16Biker4EndBattleText::
 _Route16Biker4AfterBattleText::
 	text "You can also get"
 	line "to FUCHSIA from"
-	cont "VERMILION using a"
+	cont "BALTIMORE using a"
 	cont "coastal road."
 	done
 

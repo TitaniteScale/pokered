@@ -83,12 +83,12 @@ _VermilionCitySailor2Text::
 	line "famous luxury"
 	cont "cruise ship."
 
-	para "We visit VERMILION"
+	para "We visit BALTIMORE"
 	line "once a year."
 	done
 
 _VermilionCitySignText::
-	text "VERMILION CITY"
+	text "BALTIMORE"
 	line "The Port of"
 	cont "Exquisite Sunsets"
 	done
@@ -101,10 +101,10 @@ _VermilionCityNoticeSignText::
 	cont "sleeping #MON."
 
 	para "Detour through"
-	line "ROCK TUNNEL to"
-	cont "LAVENDER TOWN."
+	line "CRYSTAL GROTTOES"
+	cont "to GETTYSBURG."
 
-	para "VERMILION POLICE"
+	para "BALTIMORE POLICE"
 	done
 
 _VermilionCityPokemonFanClubSignText::
@@ -114,7 +114,7 @@ _VermilionCityPokemonFanClubSignText::
 	done
 
 _VermilionCityGymSignText::
-	text "VERMILION CITY"
+	text "BALTIMORE"
 	line "#MON GYM"
 	cont "LEADER: LT.SURGE"
 
@@ -123,5 +123,5 @@ _VermilionCityGymSignText::
 	done
 
 _VermilionCityHarborSignText::
-	text "VERMILION HARBOR"
+	text "PORT OF BALTIMORE"
 	done

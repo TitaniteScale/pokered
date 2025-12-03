@@ -19,8 +19,8 @@ _Route25Youngster1AfterBattleText::
 _Route25Youngster2BattleText::
 	text "Dad took me to a"
 	line "great party on"
-	cont "S.S.ANNE at"
-	cont "VERMILION CITY!"
+	cont "the S.S.ANNE in"
+	cont "BALTIMORE!"
 	done
 
 _Route25Youngster2EndBattleText::

@@ -22,7 +22,7 @@ VermilionGym_Script:
 	jp LoadGymLeaderAndCityName
 
 .CityName:
-	db "VERMILION CITY@"
+	db "BALTIMORE@"
 
 .LeaderName:
 	db "LT.SURGE@"

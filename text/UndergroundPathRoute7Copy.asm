@@ -26,7 +26,7 @@ _UndergroundPathRoute7CopyUnusedGoesUnderSaffronText::
 	text "The UNDERGROUND"
 	line "PATH goes beneath"
 	cont "SAFFRON and leads"
-	cont "to LAVENDER."
+	cont "to GETTYSBURG."
 
 	para "If you're heading"
 	line "to ANNAPOLIS, go"

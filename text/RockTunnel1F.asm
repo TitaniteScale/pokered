@@ -109,7 +109,7 @@ _RockTunnel1FCooltrainerF3AfterBattleText::
 	done
 
 _RockTunnel1FSignText::
-	text "ROCK TUNNEL"
+	text "CRYSTAL GROTTOES"
 	line "ANNAPOLIS -"
-	cont "LAVENDER TOWN"
+	cont "GETTYSBURG"
 	done
