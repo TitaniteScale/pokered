@@ -1,21 +1,27 @@
 _VermilionGymLTSurgePreBattleText::
-	text "Hey, kid! What do"
-	line "you think you're"
-	cont "doing here?"
+	text "Whoa, DUDE!"
+	line "Who the hell do"
+	cont "you think you're"
+	cont "steppin' to?"
 
-	para "You won't live"
-	line "long in combat!"
-	cont "That's for sure!"
+	para "I am the"
+	para "Motha"
 
-	para "I tell you kid,"
+	para "flippin"
+
+	para "lightning"
+
+	para "AMERICAN!"
+
+	para "I tell ya, my"
 	line "electric #MON"
-	cont "saved me during"
+	cont "whipped butt in"
 	cont "the war!"
 
 	para "They zapped my"
 	line "enemies into"
 	cont "paralysis!"
 
-	para "The same as I'll"
-	line "do to you!"
+	para "Just like this,"
+	line "baby!"
 	done

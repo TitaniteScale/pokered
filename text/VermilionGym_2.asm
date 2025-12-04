@@ -1,9 +1,9 @@
 _VermilionGymLTSurgePostBattleAdviceText::
-	text "A little word of"
-	line "advice, kid!"
+	text "Piece of advice"
+	line "from the GOAT!"
 
 	para "Electricity is"
-	line "sure powerful!"
+	line "strong as hell!"
 
 	para "But, it's useless"
 	line "against ground-"
@@ -17,10 +17,10 @@ _VermilionGymLTSurgeThunderBadgeInfoText::
 
 	para "It also lets your"
 	line "#MON FLY any"
-	cont "time, kid!"
+	cont "time, lil dude!"
 
-	para "You're special,"
-	line "kid! Take this!"
+	para "You're alright,"
+	line "kid, take this!"
 	done
 
 _VermilionGymLTSurgeReceivedTM24Text::
@@ -41,17 +41,22 @@ _TM24ExplanationText::
 	done
 
 _VermilionGymLTSurgeTM24NoRoomText::
-	text "Yo kid, make room"
-	line "in your pack!"
+	text "Yo kid, why do"
+	line "you got all"
+	cont "that stuff in"
+	cont "your pockets?"
+
+	para "lighten your"
+	line "load!"
 	done
 
 _VermilionGymLTSurgeReceivedThunderBadgeText::
 	text "Whoa!"
 
 	para "You're the real"
-	line "deal, kid!"
+	line "deal, lil dude!"
 
-	para "Fine then, take"
+	para "Ok fine, take"
 	line "the THUNDERBADGE!"
 	prompt
 
