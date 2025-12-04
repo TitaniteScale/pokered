@@ -815,9 +815,6 @@ FaintEnemyPokemon:
 	call SaveScreenTilesToBuffer1
 	xor a
 	ld [wBattleResult], a
-; A lot of exp stuff is here, I need to come back and comment it out properly. TODO.
-; give exp (divided evenly) to the mons that actually fought in battle against the enemy mon that has fainted
-; if exp all is in the bag, this will be only be half of the stat exp and normal exp, due to the above loop
 .giveExpToMonsThatFought
 	xor a
 	ld [wBoostExpByExpAll], a
@@ -834,21 +831,31 @@ FaintEnemyPokemon:
   jr nz, .halveExpDataLoop
 
   ; invert the gain exp flags so only mons that DIDN'T fight get exp
+  ; TODO: I'm going to comment a lot here. Leaving a todo for future reference.
+  ; We're defining the accumulator as the party count. For this example we'll say 6
   ld a, [wPartyCount]
+  ; We're defining c as a, so this will be 6
   ld c, a
+  ; We're defining b as zero, but given it is an 8 bit number (?) it will be 00000000
   ld b, 0
+  ; This kind of thing works like a function. This will build our party in binary.
+  ; scf is like a special "1" called a carry bit. It will move from the right side of b and push the rightmost bit to the left
+  ; until it c reaches 0 and the loop will stop. With six party members this will be 00111111
   .buildAllPartyFlagsLoop
   scf
   rl b
   dec c
   jr nz, .buildAllPartyFlagsLoop
   ; b now contains flags for all party members
-  ; XOR with existing flags to get mons that didn't fight
+  ; We're setting the acummulator equal to a separate mapping of pokemon that fought this combat. If one fought, we'd see 00000001
+  ; Then we'll use a Xor which will compare 00111111 against 00000001, the result being 00111110
   ld a, [wPartyGainExpFlags]
   xor b
+  ; We're saving that result to [wPartyGainExpFlags] because those pokemon are in for a surprise.
   ld [wPartyGainExpFlags], a
   ld a, TRUE
   ld [wBoostExpByExpAll], a
+  ; This is where the pokemon get paid.
   jpfar GainExperience
 
 EnemyMonFaintedText:
