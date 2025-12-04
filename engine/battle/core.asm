@@ -815,47 +815,41 @@ FaintEnemyPokemon:
 	call SaveScreenTilesToBuffer1
 	xor a
 	ld [wBattleResult], a
-	ld b, EXP_ALL
-	call IsItemInBag
-	push af
-	jr z, .giveExpToMonsThatFought ; if no exp all, then jump
-
-; the player has exp all
-; first, we halve the values that determine exp gain
-; the enemy mon base stats are added to stat exp, so they are halved
-; the base exp (which determines normal exp) is also halved
-	ld hl, wEnemyMonBaseStats
-	ld b, NUM_STATS + 2
-.halveExpDataLoop
-	srl [hl]
-	inc hl
-	dec b
-	jr nz, .halveExpDataLoop
-
+; A lot of exp stuff is here, I need to come back and comment it out properly. TODO.
 ; give exp (divided evenly) to the mons that actually fought in battle against the enemy mon that has fainted
 ; if exp all is in the bag, this will be only be half of the stat exp and normal exp, due to the above loop
 .giveExpToMonsThatFought
 	xor a
 	ld [wBoostExpByExpAll], a
 	callfar GainExperience
-	pop af
-	ret z ; return if no exp all
 
-; the player has exp all
-; now, set the gain exp flag for every party member
-; half of the total stat exp and normal exp will divided evenly amongst every party member
-	ld a, TRUE
-	ld [wBoostExpByExpAll], a
-	ld a, [wPartyCount]
-	ld b, 0
-.gainExpFlagsLoop
-	scf
-	rl b
-	dec a
-	jr nz, .gainExpFlagsLoop
-	ld a, b
-	ld [wPartyGainExpFlags], a
-	jpfar GainExperience
+; now give half exp to party members that didn't fight
+  ; first, we halve the enemy mon base stats and base exp
+  ld hl, wEnemyMonBaseStats
+  ld b, NUM_STATS + 2
+  .halveExpDataLoop
+  srl [hl]
+  inc hl
+  dec b
+  jr nz, .halveExpDataLoop
+
+  ; invert the gain exp flags so only mons that DIDN'T fight get exp
+  ld a, [wPartyCount]
+  ld c, a
+  ld b, 0
+  .buildAllPartyFlagsLoop
+  scf
+  rl b
+  dec c
+  jr nz, .buildAllPartyFlagsLoop
+  ; b now contains flags for all party members
+  ; XOR with existing flags to get mons that didn't fight
+  ld a, [wPartyGainExpFlags]
+  xor b
+  ld [wPartyGainExpFlags], a
+  ld a, TRUE
+  ld [wBoostExpByExpAll], a
+  jpfar GainExperience
 
 EnemyMonFaintedText:
 	text_far _EnemyMonFaintedText
