@@ -90,7 +90,7 @@ _GameCornerGymGuideChampInMakingText::
 	line "things to do,"
 	cont "champ in making!"
 
-	para "CELADON GYM's"
+	para "CHEROKEE's"
 	line "LEADER is ERIKA!"
 	cont "She uses grass-"
 	cont "type #MON!"

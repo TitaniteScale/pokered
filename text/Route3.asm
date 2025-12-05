@@ -4,7 +4,7 @@ _Route3Text1::
 	cont "Groan..."
 
 	para "That tunnel from"
-	line "ANNAPOLIS takes a"
+	line "HIAWASSEE takes a"
 	cont "lot out of you!"
 	done
 

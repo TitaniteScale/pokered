@@ -20,7 +20,7 @@ _Route25Youngster2BattleText::
 	text "Dad took me to a"
 	line "great party on"
 	cont "the S.S.ANNE in"
-	cont "BALTIMORE!"
+	cont "SAVANNAH!"
 	done
 
 _Route25Youngster2EndBattleText::
@@ -147,7 +147,7 @@ _Route25Hiker3EndBattleText::
 _Route25Hiker3AfterBattleText::
 	text "The trail below"
 	line "is a shortcut to"
-	cont "ANNAPOLIS."
+	cont "HIAWASSEE."
 	done
 
 _Route25BillSignText::

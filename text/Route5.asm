@@ -1,5 +1,5 @@
 _Route5UndergroundPathSignText::
 	text "UNDERGROUND PATH"
-	line "ANNAPOLIS -"
-	cont "BALTIMORE"
+	line "HIAWASSEE -"
+	cont "SAVANNAH"
 	done

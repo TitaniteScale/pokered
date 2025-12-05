@@ -110,6 +110,6 @@ _RockTunnel1FCooltrainerF3AfterBattleText::
 
 _RockTunnel1FSignText::
 	text "CRYSTAL GROTTOES"
-	line "ANNAPOLIS -"
-	cont "GETTYSBURG"
+	line "HIAWASSEE -"
+	cont "OLD CAHAWBA"
 	done

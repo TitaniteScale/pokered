@@ -98,18 +98,19 @@ _CeladonCityTrainerTips1Text::
 	cont "critical hits!"
 
 	para "Get your items at"
-	line "CELADON DEPT."
+	line "CHEROKEE DEPT."
 	cont "STORE!"
 	done
 
 _CeladonCitySignText::
-	text "CELADON CITY"
-	line "The City of"
-	cont "Rainbow Dreams"
+	text "CHEROKEE"
+	line "An oasis of"
+	cont "pleasure in the"
+	cont "mountains!"
 	done
 
 _CeladonCityGymSignText::
-	text "CELADON CITY"
+	text "CHEROKEE"
 	line "#MON GYM"
 	cont "LEADER: ERIKA"
 
@@ -118,12 +119,12 @@ _CeladonCityGymSignText::
 	done
 
 _CeladonCityMansionSignText::
-	text "CELADON MANSION"
+	text "CHEROKEE MANSION"
 	done
 
 _CeladonCityDeptStoreSignText::
 	text "Find what you"
-	line "need at CELADON"
+	line "need at CHEROKEE"
 	cont "DEPT. STORE!"
 	done
 
@@ -137,7 +138,7 @@ _CeladonCityTrainerTips2Text::
 	cont "fire and water!"
 
 	para "Get your items at"
-	line "CELADON DEPT."
+	line "CHEROKEE DEPT."
 	cont "STORE!"
 	done
 

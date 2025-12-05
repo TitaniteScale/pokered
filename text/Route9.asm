@@ -33,7 +33,7 @@ _Route9CooltrainerM1AfterBattleText::
 _Route9CooltrainerM2BattleText::
 	text "I'm taking ROCK"
 	line "TUNNEL to go to"
-	cont "GETTYSBURG..."
+	cont "OLD CAHAWBA..."
 	done
 
 _Route9CooltrainerM2EndBattleText::
@@ -153,6 +153,6 @@ _Route9Youngster2AfterBattleText::
 
 _Route9SignText::
 	text "ROUTE 9"
-	line "ANNAPOLIS-"
+	line "HIAWASSEE -"
 	cont "CRYSTAL GROTTOES"
 	done

@@ -177,7 +177,7 @@ _Route17TrainerTips2Text::
 
 _Route17SignText::
 	text "ROUTE 17"
-	line "CELADON CITY -"
+	line "CHEROKEE -"
 	cont "FUCHSIA CITY"
 	done
 

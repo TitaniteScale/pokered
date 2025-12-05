@@ -33,8 +33,8 @@ _Route11Gate2FRightBinocularsText::
 	line "binoculars."
 
 	para "The only way to"
-	line "get from ANNAPOLIS"
-	cont "to GETTYSBURG"
+	line "go from HIAWASSEE"
+	cont "to OLD CAHAWBA"
 	cont "is by way of the"
 	cont "CRYSTAL GROTTOES."
 	done

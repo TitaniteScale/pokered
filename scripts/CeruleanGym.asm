@@ -17,7 +17,7 @@ CeruleanGym_Script:
 	jp LoadGymLeaderAndCityName
 
 .CityName:
-	db "ANNAPOLIS@"
+	db "HIAWASSEE@"
 
 .LeaderName:
 	db "MISTY@"

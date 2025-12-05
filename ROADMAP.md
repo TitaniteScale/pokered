@@ -34,3 +34,7 @@ This will show which order I want to work on things in. They may get their own g
 - Ancientpower []
 - Future Sight (Harder) []
 - Rain Dance (We'll see tbh) []
+
+# Fixes to Make
+- Exp Share doesn't work quite right.
+  - If you start with one pokemon, then switch it. It will get its bonus from fighting and then it will also share in the split exp. I don't think this is a hard fix but it is a needed one.

@@ -4,8 +4,9 @@ _PewterCityCooltrainerFText::
 	cont "from the moon!"
 
 	para "They appeared "
-	line "after MOON STONE"
-	cont "fell on MT.MOON."
+	line "after the MOON"
+	cont "STONEs fell on"
+	cont "MT.MITCHELL!"
 	done
 
 _PewterCityCooltrainerMText::

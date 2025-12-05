@@ -51,7 +51,7 @@ _CinnabarLabMetronomeRoomPCText::
 
 	para "We plan to explore"
 	line "the cavern close"
-	cont "to ANNAPOLIS."
+	cont "to HIAWASSEE."
 
 	para "From: #MON"
 	line "RESEARCH TEAM"

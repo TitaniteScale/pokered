@@ -31,5 +31,5 @@ _Route4MtMoonSignText::
 _Route4SignText::
 	text "ROUTE 4"
 	line "MT.MITCHELL -"
-	cont "ANNAPOLIS"
+	cont "HIAWASSEE"
 	done

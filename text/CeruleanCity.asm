@@ -193,7 +193,7 @@ _CeruleanCityCooltrainerF2Text::
 	done
 
 _CeruleanCitySuperNerd3Text::
-	text "This is ANNAPOLIS"
+	text "This is HIAWASSEE"
 	line "CAVE! Horribly"
 	cont "strong #MON"
 	cont "live in there!"
@@ -205,7 +205,7 @@ _CeruleanCitySuperNerd3Text::
 	done
 
 _CeruleanCitySignText::
-	text "ANNAPOLIS"
+	text "HIAWASSEE"
 	line "A Mysterious,"
 	cont "Blue Aura"
 	cont "Surrounds It"
@@ -227,7 +227,7 @@ _CeruleanCityBikeShopSign::
 	done
 
 _CeruleanCityGymSign::
-	text "ANNAPOLIS"
+	text "HIAWASSEE"
 	line "#MON GYM"
 	cont "LEADER: MISTY"
 

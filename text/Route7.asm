@@ -1,5 +1,5 @@
 _Route7UndergroundPathSignText::
 	text "UNDERGROUND PATH"
-	line "CELADON CITY -"
-	cont "GETTYSBURG"
+	line "CHEROKEE -"
+	cont "OLD CAHAWBA"
 	done

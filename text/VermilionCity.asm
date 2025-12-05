@@ -83,12 +83,12 @@ _VermilionCitySailor2Text::
 	line "famous luxury"
 	cont "cruise ship."
 
-	para "We visit BALTIMORE"
+	para "We visit SAVANNAH"
 	line "once a year."
 	done
 
 _VermilionCitySignText::
-	text "BALTIMORE"
+	text "SAVANNAH"
 	line "The Port of"
 	cont "Exquisite Sunsets"
 	done
@@ -102,9 +102,9 @@ _VermilionCityNoticeSignText::
 
 	para "Detour through"
 	line "CRYSTAL GROTTOES"
-	cont "to GETTYSBURG."
+	cont "to OLD CAHAWBA."
 
-	para "BALTIMORE POLICE"
+	para "SAVANNAH POLICE"
 	done
 
 _VermilionCityPokemonFanClubSignText::
@@ -114,7 +114,7 @@ _VermilionCityPokemonFanClubSignText::
 	done
 
 _VermilionCityGymSignText::
-	text "BALTIMORE"
+	text "SAVANNAH"
 	line "#MON GYM"
 	cont "LEADER: LT.SURGE"
 
@@ -123,5 +123,5 @@ _VermilionCityGymSignText::
 	done
 
 _VermilionCityHarborSignText::
-	text "PORT OF BALTIMORE"
+	text "PORT OF SAVANNAH"
 	done

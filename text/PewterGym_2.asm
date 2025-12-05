@@ -8,7 +8,7 @@ _PewterGymBrockPostBattleAdviceText::
 	cont "#MON trainer!"
 
 	para "Hit the GYM in"
-	line "ANNAPOLIS and say"
+	line "HIAWASSEE and say"
 	cont "hey for me!"
 	done
 

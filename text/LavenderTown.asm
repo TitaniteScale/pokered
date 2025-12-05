@@ -38,9 +38,9 @@ _LavenderTownSuperNerdText::
 	done
 
 _LavenderTownSignText::
-	text "GETTYSBURG"
-	line "Population:"
-	cont "Far Too Few."
+	text "OLD CAHAWBA"
+	line "Live with purpose"
+	cont "Live with respect"
 	done
 
 _LavenderTownSilphScopeSignText::
@@ -53,7 +53,7 @@ _LavenderTownSilphScopeSignText::
 	done
 
 _LavenderTownPokemonHouseSignText::
-	text "GETTYSBURG"
+	text "OLD CAHAWBA"
 	line "VOLUNTEER"
 	cont "#MON HOUSE"
 	done
