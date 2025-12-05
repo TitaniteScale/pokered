@@ -847,7 +847,7 @@ FaintEnemyPokemon:
   dec c
   jr nz, .buildAllPartyFlagsLoop
   ; b now contains flags for all party members
-  ; We're setting the acummulator equal to a separate mapping of pokemon that fought this combat. If one fought, we'd see 00000001
+  ; We're setting the accumulator equal to a separate mapping of pokemon that fought this combat. If one fought, we'd see 00000001
   ; Then we'll use a Xor which will compare 00111111 against 00000001, the result being 00111110
   ld a, [wPartyGainExpFlags]
   xor b

@@ -1,18 +1,13 @@
 _Route15Gate2FOaksAideExpAllText::
-	text "EXP.ALL gives"
-	line "EXP points to all"
-	cont "the #MON with"
-	cont "you, even if they"
-	cont "don't fight."
+	text "The SURFBOARD"
+	line "lets you surf"
+	cont "on the water"
+	cont "without having"
+	cont "a #MON that"
+	cont "knows SURF."
 
-	para "It does, however,"
-	line "reduce the amount"
-	cont "of EXP for each"
-	cont "#MON."
-
-	para "If you don't need"
-	line "it, you should "
-	cont "store it via PC."
+	para "Hang ten lil"
+	line "fella!"
 	done
 
 _Route15Gate2FBinocularsText::
