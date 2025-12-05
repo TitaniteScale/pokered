@@ -816,6 +816,8 @@ FaintEnemyPokemon:
 	xor a
 	ld [wBattleResult], a
 .giveExpToMonsThatFought
+    ld a, [wPartyFoughtCurrentEnemyFlags]
+    push af
 	xor a
 	ld [wBoostExpByExpAll], a
 	callfar GainExperience
@@ -849,7 +851,7 @@ FaintEnemyPokemon:
   ; b now contains flags for all party members
   ; We're setting the accumulator equal to a separate mapping of pokemon that fought this combat. If one fought, we'd see 00000001
   ; Then we'll use a Xor which will compare 00111111 against 00000001, the result being 00111110
-  ld a, [wPartyGainExpFlags]
+  pop af
   xor b
   ; We're saving that result to [wPartyGainExpFlags] because those pokemon are in for a surprise.
   ld [wPartyGainExpFlags], a
