@@ -83,6 +83,8 @@ ROMX $C
 ROMX $D
 	"Pics 5"
 	"Slot Machines"
+ROMX $2D
+    "Lugia Data"
 ROMX $E
 	"Battle Engine 7"
 ROMX $F

@@ -1507,3 +1507,13 @@ _VictreebelDexEntry::
 	next "has ever returned"
 	next "from there"
 	dex
+
+_LugiaDexEntry::
+	text "A legendary bird"
+	next "#MON that"
+	next "lives in the"
+
+	page "sky. It is said"
+	next "to be the guardian"
+	next "of the seas"
+	dex

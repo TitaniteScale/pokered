@@ -396,6 +396,8 @@ GetMonHeader::
 	ld b, $77 ; size of Aerodactyl fossil sprite
 	cp FOSSIL_AERODACTYL ; Aerodactyl fossil
 	jr z, .specialID
+	cp LUGIA
+	jr z, .lugia
 	cp MEW
 	jr z, .mew
 	predef IndexToPokedex
@@ -415,6 +417,13 @@ GetMonHeader::
 	ld [hl], e ; write front sprite pointer
 	inc hl
 	ld [hl], d
+	jr .done
+.lugia
+	ld hl, LugiaBaseStats
+	ld de, wMonHeader
+	ld bc, BASE_DATA_SIZE
+	ld a, BANK(LugiaBaseStats)
+	call FarCopyData
 	jr .done
 .mew
 	ld hl, MewBaseStats

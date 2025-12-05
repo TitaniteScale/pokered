@@ -22,6 +22,10 @@ UncompressMonSprite::
 	ld a, BANK(MewPicFront)
 	jr z, .GotBank
 	ld a, b
+	cp LUGIA
+	ld a, BANK(LugiaPicFront)
+	jr z, .GotBank
+	ld a, b
 	cp FOSSIL_KABUTOPS
 	ld a, BANK(FossilKabutopsPic)
 	jr z, .GotBank

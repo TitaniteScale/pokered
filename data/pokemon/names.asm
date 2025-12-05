@@ -190,4 +190,5 @@ MonsterNames::
 	dname "BELLSPROUT"
 	dname "WEEPINBELL"
 	dname "VICTREEBEL"
+	dname "LUGIA"
 	assert_table_length NUM_POKEMON_INDEXES

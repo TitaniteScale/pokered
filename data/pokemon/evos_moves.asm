@@ -200,6 +200,8 @@ EvosMovesPointerTable:
 	dw BellsproutEvosMoves
 	dw WeepinbellEvosMoves
 	dw VictreebelEvosMoves
+	; TODO Add lugia learnset, and base stats
+	dw LugiaEvosMoves
 	assert_table_length NUM_POKEMON_INDEXES
 
 RhydonEvosMoves:
@@ -2140,4 +2142,12 @@ VictreebelEvosMoves:
 	db 13, WRAP
 	db 15, POISONPOWDER
 	db 18, SLEEP_POWDER
+	db 0
+
+LugiaEvosMoves:
+; Evolutions
+	db 0
+; Learnset
+	db 55, PSYCHIC_M
+	db 60, RECOVER
 	db 0

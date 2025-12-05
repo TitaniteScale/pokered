@@ -190,6 +190,8 @@ PokedexEntryPointers:
 	dw BellsproutDexEntry
 	dw WeepinbellDexEntry
 	dw VictreebelDexEntry
+	; TODO Add lugia dex entry
+	dw LugiaDexEntry
 	assert_table_length NUM_POKEMON_INDEXES
 
 ; string: species name
@@ -1252,6 +1254,13 @@ VictreebelDexEntry:
 	db 5,7
 	dw 340
 	text_far _VictreebelDexEntry
+	text_end
+
+LugiaDexEntry:
+	db "DIVING@"
+	db 17,1
+	dw 4760
+	text_far _LugiaDexEntry
 	text_end
 
 MissingNoDexEntry:
