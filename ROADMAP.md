@@ -28,3 +28,9 @@ This will show which order I want to work on things in. They may get their own g
 - Regional Starter Selection []
 - Starter Island []
 - More legends []
+
+# Moves to Be Added
+- Safeguard []
+- Ancientpower []
+- Future Sight (Harder) []
+- Rain Dance (We'll see tbh) []

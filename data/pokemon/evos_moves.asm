@@ -2148,6 +2148,13 @@ LugiaEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 55, PSYCHIC_M
-	db 60, RECOVER
+	db 11, MIST
+	db 22, GUST
+	db 33, RECOVER
+	db 44, HYDRO_PUMP
+	db 55, BARRIER
+	db 66, SWIFT
+	db 77, WHIRLWIND
+	db 88, BODY_SLAM
+	db 99, PSYCHIC_M
 	db 0
