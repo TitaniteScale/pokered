@@ -15,12 +15,12 @@ _SSAnne2FRivalText::
 	para "Imagine seein'"
 	line "you here!"
 
-	para "<PLAYER>, how'd it"
-	line "go in Gettysburg"
-	cont "after I left?"
+	para "<PLAYER>, how are"
+	line "your #MON"
+	cont "doin' lately?"
 
 	para "And how's your"
-	line "#DEX coming?"
+	line "#DEX comin'?"
 
 	para "I already caught"
 	line "40 kinds, bud!"

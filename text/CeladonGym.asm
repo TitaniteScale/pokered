@@ -1,29 +1,28 @@
 _CeladonGymErikaPreBattleText::
-	text "Hello. Lovely"
-	line "weather isn't it?"
-	cont "It's so pleasant."
+	text "Hello. May I ask"
+	line "your opinion on"
+	cont "the recent Rocket"
+	cont "activity on"
+	cont "MT.MITCHELL"
 
-	para "...Oh dear..."
-	line "I must have dozed"
-	cont "off. Welcome."
+	para "I'm subscribed"
+	line "to a newsletter"
+	cont "that told me they"
+	cont "poached #MON"
 
-	para "My name is ERIKA."
-	line "I am the LEADER"
-	cont "of CHEROKEE GYM."
+	para "Regardless, I am"
+	line "ERIKA, I guide"
+	cont "the learning and"
+	cont "practices of the"
+	cont "CHEROKEE GYM"
 
-	para "I teach the art of"
-	line "flower arranging."
-	cont "My #MON are of"
-	cont "the grass-type."
-
-	para "Oh, I'm sorry, I"
-	line "had no idea that"
-	cont "you wished to"
-	cont "challenge me."
-
-	para "Very well, but I"
-	line "shall not lose."
+	para "My #MON"
+	line "do not fight,"
+	cont "however, we may"
+	cont "engage in mutual"
+	cont "combat!"
 	done
+
 
 _CeladonGymErikaReceivedRainbowBadgeText::
 	text "Oh!"
@@ -41,10 +40,13 @@ _CeladonGymErikaPostBattleAdviceText::
 	line "#MON? I must"
 	cont "say I'm impressed."
 
-	para "I would never"
-	line "collect #MON"
-	cont "if they were"
-	cont "unattractive."
+	para "I would love to"
+	line "be so free, to"
+	cont "experience and"
+	cont "commune with the"
+	cont "world and its"
+	cont "creatures as they"
+	cont "are."
 	done
 
 _CeladonGymRainbowBadgeInfoText::

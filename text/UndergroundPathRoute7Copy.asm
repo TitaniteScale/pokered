@@ -25,7 +25,7 @@ _UndergroundPathRoute7CopyUnusedMiddleAgedManText::
 _UndergroundPathRoute7CopyUnusedGoesUnderSaffronText::
 	text "The UNDERGROUND"
 	line "PATH goes beneath"
-	cont "SAFFRON and leads"
+	cont "ATLANTA and leads"
 	cont "to OLD CAHAWBA."
 
 	para "If you're heading"

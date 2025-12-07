@@ -14,7 +14,7 @@ _SaffronCityRocket3Text::
 	done
 
 _SaffronCityRocket4Text::
-	text "SAFFRON belongs"
+	text "ATLANTA belongs"
 	line "to TEAM ROCKET!"
 	done
 
@@ -51,7 +51,7 @@ _SaffronCitySilphWorkerMText::
 _SaffronCitySilphWorkerFText::
 	text "People should be"
 	line "flocking back to"
-	cont "SAFFRON now."
+	cont "ATLANTA now."
 	done
 
 _SaffronCityGentlemanText::
@@ -91,9 +91,8 @@ _SaffronCityRocket9Text::
 	done
 
 _SaffronCitySignText::
-	text "SAFFRON CITY"
-	line "Shining, Golden"
-	cont "Land of Commerce"
+	text "ATLANTA"
+	para "Resurgens."
 	done
 
 _SaffronCityFightingDojoSignText::
@@ -101,12 +100,13 @@ _SaffronCityFightingDojoSignText::
 	done
 
 _SaffronCityGymSignText::
-	text "SAFFRON CITY"
+	text "ATLANTA"
 	line "#MON GYM"
 	cont "LEADER: SABRINA"
 
-	para "The Master of"
-	line "Psychic #MON!"
+	para "The baddest"
+	line "medium outta"
+	cont "East ATLANTA!"
 	done
 
 _SaffronCityTrainerTips1Text::

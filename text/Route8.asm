@@ -74,7 +74,7 @@ _Route8SuperNerd3EndBattleText::
 _Route8SuperNerd3AfterBattleText::
 	text "We're stuck here"
 	line "because of the"
-	cont "gates at SAFFRON."
+	cont "gates at ATLANTA."
 	done
 
 _Route8CooltrainerF2BattleText::
@@ -104,7 +104,7 @@ _Route8CooltrainerF3EndBattleText::
 	prompt
 
 _Route8CooltrainerF3AfterBattleText::
-	text "SAFFRON's gate"
+	text "ATLANTA's gate"
 	line "keeper won't let"
 	cont "us through."
 	cont "He's so mean!"
