@@ -48,7 +48,7 @@ _Route18CooltrainerM3AfterBattleText::
 _Route18SignText::
 	text "ROUTE 18"
 	line "CHEROKEE -"
-	cont "FUCHSIA CITY"
+	cont "GULF SHORES"
 	done
 
 _Route18CyclingRoadSignText::

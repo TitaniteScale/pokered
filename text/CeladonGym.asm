@@ -51,16 +51,18 @@ _CeladonGymErikaPostBattleAdviceText::
 
 _CeladonGymRainbowBadgeInfoText::
 	text "The RAINBOWBADGE"
-	line "will make #MON"
-	cont "up to L50 obey."
+	line "allows you to"
+	cont "commune with"
+	cont "#MOM Lv.50"
+	cont "and above!"
 
 	para "It also allows"
 	line "#MON to use"
 	cont "STRENGTH in and"
 	cont "out of battle."
 
-	para "Please also take"
-	line "this with you."
+	para "Please, accept"
+	line "this as well."
 	done
 
 _CeladonGymReceivedTM21Text::

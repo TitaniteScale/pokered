@@ -13,8 +13,9 @@ _Route20Swimmer1AfterBattleText::
 	done
 
 _Route20Swimmer2BattleText::
-	text "SEAFOAM is a"
-	line "quiet getaway!"
+	text "The BARRIER"
+	line "ISLANDS are a"
+	cont "quiet getaway!"
 	done
 
 _Route20Swimmer2EndBattleText::
@@ -52,7 +53,7 @@ _Route20Swimmer4EndBattleText::
 	prompt
 
 _Route20Swimmer4AfterBattleText::
-	text "SEAFOAM used to"
+	text "BARRIER used to"
 	line "be one island!"
 	done
 
@@ -151,5 +152,5 @@ _Route20Swimmer9AfterBattleText::
 	done
 
 _Route20SeafoamIslandsSignText::
-	text "SEAFOAM ISLANDS"
+	text "BARRIER ISLANDS"
 	done

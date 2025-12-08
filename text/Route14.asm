@@ -168,6 +168,6 @@ _Route14Biker4AfterBattleText::
 
 _Route14SignText::
 	text "ROUTE 14"
-	line "West to FUCHSIA"
-	cont "CITY"
+	line "West to"
+	cont "GULF SHORES"
 	done

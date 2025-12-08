@@ -31,7 +31,7 @@ _Route17Biker2AfterBattleText::
 
 _Route17Biker3BattleText::
 	text "You heading to"
-	line "FUCHSIA?"
+	line "GULF SHORES?"
 	done
 
 _Route17Biker3EndBattleText::
@@ -178,7 +178,7 @@ _Route17TrainerTips2Text::
 _Route17SignText::
 	text "ROUTE 17"
 	line "CHEROKEE -"
-	cont "FUCHSIA CITY"
+	cont "GULF SHORES"
 	done
 
 _Route17NoticeSign2Text::

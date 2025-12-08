@@ -32,9 +32,9 @@ _FuchsiaCityPokemonText::
 	done
 
 _FuchsiaCitySignText::
-	text "FUCHSIA CITY"
-	line "Behold! It's"
-	cont "Passion Pink!"
+	text "GULF SHORES"
+	line "Find your fun"
+	cont "on land or sea!"
 	done
 
 _FuchsiaCitySafariGameSignText::
@@ -53,7 +53,7 @@ _FuchsiaCitySafariZoneSignText::
 	done
 
 _FuchsiaCityGymSignText::
-	text "FUCHSIA CITY"
+	text "GULF SHORES"
 	line "#MON GYM"
 	cont "LEADER: KOGA"
 

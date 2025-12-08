@@ -100,8 +100,8 @@ _Route19Swimmer5EndBattleText::
 
 _Route19Swimmer5AfterBattleText::
 	text "It's still a long"
-	line "way to go to"
-	cont "SEAFOAM ISLANDS."
+	line "way to go to the"
+	cont "BARRIER ISLANDS."
 	done
 
 _Route19Swimmer6BattleText::
@@ -115,8 +115,9 @@ _Route19Swimmer6EndBattleText::
 
 _Route19Swimmer6AfterBattleText::
 	text "My boy friend"
-	line "wanted to swim to"
-	cont "SEAFOAM ISLANDS."
+	line "wanted to swim"
+	cont "to the BRRRIER"
+	cont "ISLANDS"
 	done
 
 _Route19Swimmer7BattleText::
@@ -152,6 +153,6 @@ _Route19Swimmer8AfterBattleText::
 
 _Route19SignText::
 	text "SEA ROUTE 19"
-	line "FUCHSIA CITY -"
-	cont "SEAFOAM ISLANDS"
+	line "GULF SHORES -"
+	cont "BARRIER ISLANDS"
 	done

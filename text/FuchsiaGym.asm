@@ -5,13 +5,21 @@ _FuchsiaGymKogaBeforeBattleText::
 	line "you dares to"
 	cont "challenge me?"
 
-	para "Very well, I"
-	line "shall show you"
-	cont "true terror as a"
-	cont "ninja master!"
+	para "I am called the"
+	line "great shinobi"
+	cont "of the south!"
+
+	para "I trained under"
+	line "my sensei for"
+	cont "three grueling"
+	cont "years at Jim"
+	cont "Robert's United"
+	cont "Karate Studio"
+	cont "and Laundromat!"
 
 	para "You shall feel"
-	line "the despair of"
+	line "the might of"
+	cont "the forbidden"
 	cont "poison and sleep"
 	cont "techniques!"
 	done

@@ -167,6 +167,6 @@ _Route15CooltrainerF4AfterBattleText::
 
 _Route15SignText::
 	text "ROUTE 15"
-	line "West to FUCHSIA"
-	cont "CITY"
+	line "West to"
+	cont "GULF SHORES"
 	done

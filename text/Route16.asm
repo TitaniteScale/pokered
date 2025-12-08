@@ -54,9 +54,9 @@ _Route16Biker4EndBattleText::
 
 _Route16Biker4AfterBattleText::
 	text "You can also get"
-	line "to FUCHSIA from"
-	cont "SAVANNAH using a"
-	cont "coastal road."
+	line "from SVANNAH to"
+	cont "GULF SHORES using"
+	cont "a coastal road."
 	done
 
 _Route16Biker5BattleText::
@@ -116,5 +116,5 @@ _Route16CyclingRoadSignText::
 _Route16SignText::
 	text "ROUTE 16"
 	line "CHEROKEE -"
-	cont "FUCHSIA CITY"
+	cont "GULF SHORES"
 	done

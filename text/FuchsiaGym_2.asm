@@ -38,7 +38,7 @@ _FuchsiaGymKogaTM06ExplanationText::
 
 	para "It is a secret"
 	line "technique over"
-	cont "400 years old!"
+	cont "40 years old!"
 	done
 
 _FuchsiaGymKogaTM06NoRoomText::
@@ -174,8 +174,8 @@ _FuchsiaGymGymGuideChampInMakingText::
 	text "Yo! Champ in"
 	line "making!"
 
-	para "FUCHSIA GYM is"
-	line "riddled with"
+	para "GULF SHORES GYM"
+	line "is riddled with"
 	cont "invisible walls!"
 
 	para "KOGA might appear"

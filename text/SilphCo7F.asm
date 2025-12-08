@@ -146,39 +146,45 @@ _SilphCo7FRocket3AfterBattleText::
 
 _SilphCo7FRivalText::
 	text "<RIVAL>: What"
-	line "kept you <PLAYER>?"
+	line "are you doin'"
+	cont "here <PLAYER>?"
 	done
 
 _SilphCo7FRivalWaitedHereText::
-	text "<RIVAL>: Hahaha!"
-	line "I thought you'd"
-	cont "turn up if I"
-	cont "waited here!"
+	text "<RIVAL>: It was"
+	line "pretty hard to"
+	cont "get all the"
+	cont "way up here!"
 
-	para "I guess TEAM"
-	line "ROCKET slowed you"
-	cont "down! Not that I"
-	cont "care!"
+	para "This place is"
+	line "crawlin' with"
+	cont "TEAM ROCKET guys!"
+
+	para "I'm glad you're"
+	line "doin' alright."
 
 	para "I saw you in"
 	line "ATLANTA, so I"
-	cont "decided to see if"
-	cont "you got better!"
+	cont "wanted to see how"
+	cont "strong you've"
+	cont "gotten!"
 	done
 
 _SilphCo7FRivalDefeatedText::
-	text "Oh ho!"
-	line "So, you are ready"
-	cont "for BOSS ROCKET!"
+	text "Wow!"
+	line "I reckon you are"
+	cont "ready for BOSS"
+	cont "ROCKET!"
 	prompt
 
 _SilphCo7FRivalVictoryText::
-	text "<RIVAL>: How can"
-	line "I put this?"
+	text "<RIVAL>: Listen,"
+	line "<PLAYER>..."
 
-	para "You're not good"
-	line "enough to play"
-	cont "with us big boys!"
+	para "This is a pretty"
+	line "tough journey,"
+	cont "are you sure that"
+	cont "can do it?"
 	prompt
 
 _SilphCo7FRivalGoodLuckToYouText::
@@ -187,23 +193,24 @@ _SilphCo7FRivalGoodLuckToYouText::
 	para "I'm moving on up"
 	line "and ahead!"
 
-	para "By checking my"
-	line "#DEX, I'm"
-	cont "starting to see"
-	cont "what's strong and"
-	cont "how they evolve!"
+	para "I've been lookin'"
+	line "at my #DEX"
+	cont "and I'm gettin'"
+	cont "an eye for what's"
+	cont "strong and how"
+	cont "they evolve!"
 
-	para "I'm going to the"
+	para "I'm goin' to the"
 	line "#MON LEAGUE"
-	cont "to boot out the"
+	cont "to take on the"
 	cont "ELITE FOUR!"
 
 	para "I'll become the"
-	line "world's most"
-	cont "powerful trainer!"
+	line "world's toughest"
+	cont "#MON trainer!"
 
 	para "<PLAYER>, well"
-	line "good luck to you!"
-	cont "Don't sweat it!"
-	cont "Smell ya!"
+	line "good luck to ya!"
+	cont "See ya later,"
+	para "alligator!"
 	done
