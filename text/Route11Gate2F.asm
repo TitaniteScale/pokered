@@ -36,5 +36,5 @@ _Route11Gate2FRightBinocularsText::
 	line "go from HIAWASSEE"
 	cont "to OLD CAHAWBA"
 	cont "is by way of the"
-	cont "CRYSTAL GROTTOES."
+	cont "RUBY FALLS."
 	done

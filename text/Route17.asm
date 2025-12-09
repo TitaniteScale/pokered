@@ -70,8 +70,7 @@ _Route17Biker5EndBattleText::
 
 _Route17Biker5AfterBattleText::
 	text "I got my VOLTORB"
-	line "at the abandoned"
-	cont "POWER PLANT."
+	line "out of SEQUOYAH!"
 	done
 
 _Route17Biker6BattleText::

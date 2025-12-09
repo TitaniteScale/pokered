@@ -1,6 +1,6 @@
 _CeladonCityLittleGirlText::
 	text "I got my KOFFING"
-	line "in CINNABAR!"
+	line "in HONOLULU!"
 
 	para "It's nice, but it"
 	line "breathes poison"

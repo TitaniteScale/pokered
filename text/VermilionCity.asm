@@ -101,7 +101,7 @@ _VermilionCityNoticeSignText::
 	cont "sleeping #MON."
 
 	para "Detour through"
-	line "CRYSTAL GROTTOES"
+	line "RUBY FALLS"
 	cont "to OLD CAHAWBA."
 
 	para "SAVANNAH POLICE"

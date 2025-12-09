@@ -100,9 +100,9 @@ _Route10CooltrainerF2AfterBattleText::
 	done
 
 _Route10RockTunnelSignText::
-	text "CRYSTAL GROTTOES"
+	text "RUBY FALLS"
 	done
 
 _Route10PowerPlantSignText::
-	text "POWER PLANT"
+	text "SEQUOYAH"
 	done

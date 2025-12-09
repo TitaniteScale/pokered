@@ -1,32 +1,39 @@
 _CinnabarGymBlainePreBattleText::
-	text "Hah!"
+	text "What's up,"
+	line "parrothead?"
 
-	para "I am BLAINE! I"
-	line "am the LEADER of"
-	cont "CINNABAR GYM!"
+	para "I am BLAINE! I'm"
+	line "the LEADER of the"
+	cont "HONOLULU GYM!"
 
-	para "My fiery #MON"
-	line "will incinerate"
-	cont "all challengers!"
+	para "I love my fire"
+	line "#MON because"
+	cont "they keep us warm"
+	cont "on those chilly"
+	cont "HONOLULU nights!"
 
-	para "Hah! You better"
-	line "have BURN HEAL!"
+	para "Hope you brought"
+	line "some BURN HEAL!"
+	para "Or at least a"
+	line "Hurricane!"
 	done
 
 _CinnabarGymBlaineReceivedVolcanoBadgeText::
-	text "I have"
-	line "burnt out!"
+	text "Haha!"
+	line "looks like you"
+	cont "caught me on"
+	cont "island time!"
 
 	para "You have earned"
 	line "the VOLCANOBADGE!@"
 	text_end
 
 _CinnabarGymBlainePostBattleAdviceText::
-	text "FIRE BLAST is the"
-	line "ultimate fire"
-	cont "technique!"
+	text "FIRE BLAST is a"
+	line "primo fire move"
+	cont "lil dude!"
 
-	para "Don't waste it on"
+	para "Don't waste it no"
 	line "water #MON!"
 	done
 
@@ -34,12 +41,13 @@ _CinnabarGymBlaineVolcanoBadgeInfoText::
 	text "Hah!"
 
 	para "The VOLCANOBADGE"
-	line "heightens the"
-	cont "SPECIAL abilities"
-	cont "of your #MON!"
+	line "kicks the SPECIAL"
+	cont "abilities of your"
+	cont "#MON up a"
+	cont "few notches!"
 
-	para "Here, you can"
-	line "have this too!"
+	para "Here, hold onto"
+	line "this thang too!"
 	done
 
 _CinnabarGymBlaineReceivedTM38Text::
@@ -55,12 +63,14 @@ _CinnabarGymBlaineTM38ExplanationText::
 	para "TM38 contains"
 	line "FIRE BLAST!"
 
-	para "Teach it to fire-"
-	line "type #MON!"
+	para "I love teachin'"
+	line "that one to my"
+	cont "fire #MON!"
 
-	para "CHARMELEON or"
-	line "PONYTA would be"
-	cont "good bets!"
+	para "You could do"
+	line "a PONYTA. Hell,"
+	cont "you could even"
+	cont "do a CHARMANDER!"
 	done
 
 _CinnabarGymBlaineTM38NoRoomText::

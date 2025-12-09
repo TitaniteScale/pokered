@@ -60,12 +60,13 @@ _Route22RivalBeforeBattleText2::
 
 	para "You collected all"
 	line "the BADGEs too?"
-	cont "That's cool!"
+	cont "That's awesome!"
 
-	para "Then I'll whip you"
-	line "<PLAYER> as a"
-	cont "warm up for"
-	cont "#MON LEAGUE!"
+	para "I've caught a ton"
+	line "of amazing and"
+	cont "strong #MON."
+	cont "Wanna take a lil"
+	cont "peek, <PLAYER>?"
 
 	para "Come on!"
 	done

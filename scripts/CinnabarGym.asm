@@ -24,7 +24,7 @@ CinnabarGymSetMapAndTiles:
 	jp LoadGymLeaderAndCityName
 
 .CityName:
-	db "CINNABAR ISLAND@"
+	db "HONOLULU@"
 
 .LeaderName:
 	db "BLAINE@"

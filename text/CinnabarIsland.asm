@@ -4,7 +4,7 @@ _CinnabarIslandDoorIsLockedText::
 	done
 
 _CinnabarIslandGirlText::
-	text "CINNABAR GYM's"
+	text "HONOLULU's"
 	line "BLAINE is an odd"
 	cont "man who has lived"
 	cont "here for decades."
@@ -18,9 +18,9 @@ _CinnabarIslandGamblerText::
 	done
 
 _CinnabarIslandSignText::
-	text "CINNABAR ISLAND"
-	line "The Fiery Town of"
-	cont "Burning Desire"
+	text "HONOLULU"
+	line "A paradise in"
+	cont "every sense."
 	done
 
 _CinnabarIslandPokemonLabSignText::
@@ -28,7 +28,7 @@ _CinnabarIslandPokemonLabSignText::
 	done
 
 _CinnabarIslandGymSignText::
-	text "CINNABAR ISLAND"
+	text "HONOLULU"
 	line "#MON GYM"
 	cont "LEADER: BLAINE"
 

@@ -121,7 +121,7 @@ _Route20Swimmer7AfterBattleText::
 
 _Route20Swimmer8BattleText::
 	text "I swam here from"
-	line "CINNABAR ISLAND!"
+	line "HONOLULU!"
 	done
 
 _Route20Swimmer8EndBattleText::
@@ -133,11 +133,11 @@ _Route20Swimmer8AfterBattleText::
 	text "#MON have"
 	line "taken over an"
 	cont "abandoned mansion"
-	cont "on CINNABAR!"
+	cont "in HONOLULU!"
 	done
 
 _Route20Swimmer9BattleText::
-	text "CINNABAR, in the"
+	text "HONOLULU, in the"
 	line "west, has a LAB"
 	cont "for #MON."
 	done
@@ -147,7 +147,7 @@ _Route20Swimmer9EndBattleText::
 	prompt
 
 _Route20Swimmer9AfterBattleText::
-	text "CINNABAR is a "
+	text "HONOLULU is on a"
 	line "volcanic island!"
 	done
 

@@ -433,7 +433,7 @@ _OakLabEmailText::
 	cont "trainer!"
 
 	para "#MON LEAGUE HQ"
-	line "INDIGO PLATEAU"
+	line "GEORGIA DOME"
 
 	para "PS: PROF.OAK,"
 	line "please visit us!"
@@ -570,7 +570,7 @@ _FightingDojoText::
 	done
 
 _IndigoPlateauHQText::
-	text "INDIGO PLATEAU"
+	text "GEORGIA DOME"
 	line "#MON LEAGUE HQ"
 	done
 
@@ -782,7 +782,7 @@ _DroppedHiddenCoinsText::
 	done
 
 _IndigoPlateauStatuesText1::
-	text "INDIGO PLATEAU"
+	text "GEORGIA DOME"
 	prompt
 
 _IndigoPlateauStatuesText2::

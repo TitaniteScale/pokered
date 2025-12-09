@@ -1,40 +1,45 @@
 _SaffronGymSabrinaText::
-	text "I had a vision of"
-	line "your arrival!"
+	text "I foresaw your"
+	line "arrival when I"
+	cont "gazed into my"
+	cont "crystals!"
 
-	para "I have had psychic"
-	line "powers since I"
-	cont "was a child."
+	para "I've been on my"
+	line "psychic ish since"
+	cont "I was teeny tiny."
 
-	para "I first learned"
-	line "to bend spoons"
-	cont "with my mind."
+	para "Bendin' spoons."
+	para "Pickin' locks."
+	para "I run the jewels"
+	line "baby!"
 
-	para "I dislike fight-"
-	line "ing, but if you"
-	cont "wish, I will show"
-	cont "you my powers!"
+	para "You made it this"
+	line "far and I gotta"
+	cont "give you props,"
+	cont "but here's how we"
+	cont "do it in EAV!"
 	done
 
 _SaffronGymSabrinaReceivedMarshBadgeText::
-	text "I'm"
-	line "shocked!"
-	cont "But, a loss is a"
-	cont "loss."
+	text "Dang!"
+	line "You're stronger"
+	cont "than you look,"
+	cont "give you that."
 
-	para "I admit I didn't"
-	line "work hard enough"
-	cont "to win!"
+	para "I gotta get my"
+	line "mind right to"
+	cont "beat trainers"
+	cont "like you!"
 
 	para "You earned the"
 	line "MARSHBADGE!@"
 	text_end
 
 _SaffronGymSabrinaPostBattleAdviceText::
-	text "Everyone has"
-	line "psychic power!"
-	cont "People just don't"
-	cont "realize it!"
+	text "The way I see it"
+	line "anybody can be a"
+	cont "Psychic. But most"
+	cont "lack the guts."
 	done
 
 _SaffronGymSabrinaMarshBadgeInfoText::
@@ -43,16 +48,16 @@ _SaffronGymSabrinaMarshBadgeInfoText::
 	cont "to L70 obey you!"
 
 	para "Stronger #MON"
-	line "will become wild,"
-	cont "ignoring your"
-	cont "orders in battle!"
+	line "straight up will"
+	cont "not respect you"
+	cont "like that."
 
-	para "Just don't raise"
-	line "your #MON too"
-	cont "much!"
+	para "Just don't do the"
+	line "most with your"
+	cont "#MON!"
 
-	para "Wait, please take"
-	line "this TM with you!"
+	para "Hold up, take"
+	line "this TM with you."
 	done
 
 _SaffronGymSabrinaReceivedTM46Text::
@@ -64,7 +69,7 @@ _TM46ExplanationText::
 	text_start
 
 	para "TM46 is PSYWAVE!"
-	line "It uses powerful"
+	line "It fires off"
 	cont "psychic waves to"
 	cont "inflict damage!"
 	done

@@ -43,8 +43,7 @@ _Route9CooltrainerM2EndBattleText::
 
 _Route9CooltrainerM2AfterBattleText::
 	text "Are you off to"
-	line "CRYSTAL GROTTOES"
-	cont "too?"
+	line "RUBY FALLS too?"
 	done
 
 _Route9CooltrainerF2BattleText::
@@ -154,5 +153,5 @@ _Route9Youngster2AfterBattleText::
 _Route9SignText::
 	text "ROUTE 9"
 	line "HIAWASSEE -"
-	cont "CRYSTAL GROTTOES"
+	cont "RUBY FALLS"
 	done

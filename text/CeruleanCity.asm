@@ -193,8 +193,8 @@ _CeruleanCityCooltrainerF2Text::
 	done
 
 _CeruleanCitySuperNerd3Text::
-	text "This is HIAWASSEE"
-	line "CAVE! Horribly"
+	text "This is THE LOST"
+	line "SEA! Horribly"
 	cont "strong #MON"
 	cont "live in there!"
 

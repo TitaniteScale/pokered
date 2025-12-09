@@ -109,7 +109,7 @@ _RockTunnel1FCooltrainerF3AfterBattleText::
 	done
 
 _RockTunnel1FSignText::
-	text "CRYSTAL GROTTOES"
+	text "RUBY FALLS"
 	line "HIAWASSEE -"
 	cont "OLD CAHAWBA"
 	done
