@@ -23,6 +23,8 @@ _RedsHouse1FMomLookingGreatText::
 	cont "Take care now!"
 	done
 
+; TODO: See if you can make this dynamic
+; depending on if Giovanni has been defeated.
 _RedsHouse1FTVStandByMeMovieText::
 	text "There's a breaking"
 	line "news story on TV."

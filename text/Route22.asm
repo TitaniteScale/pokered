@@ -60,7 +60,8 @@ _Route22RivalBeforeBattleText2::
 
 	para "You collected all"
 	line "the BADGEs too?"
-	cont "That's awesome!"
+
+	para "That's awesome!"
 
 	para "I've caught a ton"
 	line "of amazing and"
@@ -72,34 +73,42 @@ _Route22RivalBeforeBattleText2::
 	done
 
 _Route22RivalAfterBattleText2::
-	text "That loosened me"
-	line "up! I'm ready for"
-	cont "#MON LEAGUE!"
+	text "That was a pretty"
+	line "good warm up ol'"
+	cont "<PLAYER>!"
 
-	para "<PLAYER>, you need"
-	line "more practice!"
+	para "The way I see it,"
+	line "all I gotta do is"
+	cont "get as strong as"
+	cont "you are now. Then"
+	cont "I can win it all!"
 
-	para "But hey, you know"
-	line "that! I'm out of"
-	cont "here. Smell ya!"
+	para "Anyway! I'll see"
+	line "ya at the GEORGIA"
+	cont "DOME!"
+
+	para "See ya later,"
+	para "alligator!"
 	done
 
 _Route22Rival2DefeatedText::
-	text "What!?"
+	text "Man!"
 
-	para "I was just"
-	line "careless!"
+	para "After all that..."
+	line "I just gotta hit"
+	cont "the gas!"
 	prompt
 
 _Route22Rival2VictoryText::
-	text "<RIVAL>: Hahaha!"
-	line "<PLAYER>! That's"
-	cont "your best? You're"
-	cont "nowhere near as"
-	cont "good as me, pal!"
+	text "<RIVAL>: Yeah!"
+	line "I can see how you"
+	cont "got your badges"
+	cont "and I reckon I"
+	cont "oughta tell ya..."
 
-	para "Go train some"
-	line "more! You loser!"
+	para "I'm feelin' like"
+	line "I just got my"
+	cont "ninth!"
 	prompt
 
 _Route22PokemonLeagueSignText::

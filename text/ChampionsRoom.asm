@@ -1,84 +1,101 @@
 _ChampionsRoomRivalIntroText::
 	text "<RIVAL>: Hey!"
 
-	para "I was looking"
-	line "forward to seeing"
-	cont "you, <PLAYER>!"
+	para "I was hopin' you"
+	line "would make it all"
+	cont "the way here,"
+	cont "<PLAYER>!"
 
-	para "My rival should"
-	line "be strong to keep"
-	cont "me sharp!"
+	para "You're smart, and"
+	line "you understand"
+	cont "this part of the"
+	cont "world."
 
-	para "While working on"
-	line "#DEX, I looked"
-	cont "all over for"
-	cont "powerful #MON!"
+	para "I knew that the"
+	line "#MON you found"
+	cont "would be able to"
+	cont "go toe to toe"
+	cont "with mine."
 
-	para "Not only that, I"
-	line "assembled teams"
-	cont "that would beat"
-	cont "any #MON type!"
+	para "I had to build"
+	line "a real team to"
+	cont "hit the top,"
+	cont "I'm ready for"
+	cont "anybody now."
 
-	para "And now!"
+	para "And now?"
 
 	para "I'm the #MON"
 	line "LEAGUE champion!"
 
-	para "<PLAYER>! Do you"
-	line "know what that"
-	cont "means?"
+	para "But I can't keep"
+	line "that title if I"
+	cont "can't win my"
+	cont "last big fight."
 
-	para "I'll tell you!"
+	para "You ready bud?"
 
-	para "I am the most"
-	line "powerful trainer"
-	cont "in the world!"
+	para "Let's go, one"
+	line "last time, for"
+	cont "all the marbles!"
 	done
 
 _RivalDefeatedText::
-	text "NO!"
-	line "That can't be!"
-	cont "You beat my best!"
+	text "Well,"
+	line "I reckon you got"
+	cont "me, <PLAYER>."
 
-	para "After all that"
-	line "work to become"
-	cont "LEAGUE champ?"
+	para "I ain't gonna act"
+	line "like this one"
+	cont "doesn't sting a"
+	cont "lil bit."
 
-	para "My reign is over"
-	line "already?"
-	cont "It's not fair!"
+	para "But the sun will"
+	line "still rise in the"
+	cont "east, and set in"
+	cont "the west."
 	prompt
 
 _RivalVictoryText::
-	text "Hahaha!"
-	line "I won, I won!"
+	text "Hey,"
+	line "don't feel bad."
 
-	para "I'm too good for"
-	line "you, <PLAYER>!"
+	para "After all, I'm"
+	line "champ! Go out and"
+	cont "train a lil bit"
+	cont "more, then come"
+	cont "on back here."
 
-	para "You did well to"
-	line "even reach me,"
-	cont "<RIVAL>, the"
-	cont "#MON genius!"
+	para "You got up here"
+	line "in the first"
+	cont "place so I think"
+	cont "ya got the stuff."
 
-	para "Nice try, loser!"
-	line "Hahaha!"
+	para "But for now, the"
+	line "<RIVAL>'s reign"
+	cont "is goin' strong!"
 	prompt
 
 _ChampionsRoomRivalAfterBattleText::
-	text "Why?"
-	line "Why did I lose?"
+	text "Man,"
+	line "I've been all over"
+	cont "creation, I beat"
+	cont "the ELITE FOUR"
+	cont "and everything."
 
-	para "I never made any"
-	line "mistakes raising"
-	cont "my #MON..."
+	para "Just to lose to"
+	line "my neighbor of"
+	cont "all people!"
 
-	para "Darn it! You're"
-	line "the new #MON"
-	cont "LEAGUE champion!"
+	para "<PLAYER>, I'm"
+	line "proud to say that"
+	cont "you're the new"
+	cont "#MON LEAGUE"
+	cont "champion!"
 
-	para "Although I don't"
-	line "like to admit it."
+	para "Breathe it in ol'"
+	line "buddy, you earned"
+	cont "it."
 	done
 
 _ChampionsRoomOakText::
