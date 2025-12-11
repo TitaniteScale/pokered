@@ -1,5 +1,4 @@
-; Lets see if this shit works.
-
+; Study this for ROMX stuff later
 SECTION "Lugia Data", ROMX
 
 LugiaPicFront:: INCBIN "gfx/pokemon/front/lugia.pic"
